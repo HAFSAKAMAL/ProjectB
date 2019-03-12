@@ -1,0 +1,9 @@
+G:\Mini_Project\Mini_Project\bin\Debug\Mini_Project.exe.config
+G:\Mini_Project\Mini_Project\bin\Debug\Mini_Project.exe
+G:\Mini_Project\Mini_Project\bin\Debug\Mini_Project.pdb
+G:\Mini_Project\Mini_Project\obj\Debug\Mini_Project.csprojResolveAssemblyReference.cache
+G:\Mini_Project\Mini_Project\obj\Debug\Mini_Project.Form1.resources
+G:\Mini_Project\Mini_Project\obj\Debug\Mini_Project.Properties.Resources.resources
+G:\Mini_Project\Mini_Project\obj\Debug\Mini_Project.csproj.GenerateResource.Cache
+G:\Mini_Project\Mini_Project\obj\Debug\Mini_Project.exe
+G:\Mini_Project\Mini_Project\obj\Debug\Mini_Project.pdb
